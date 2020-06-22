@@ -1,4 +1,4 @@
-# 我的视频
+# 我的资料
 ### 旅行记录
 
  [无人机拍摄雪后宏村](https://www.bilibili.com/video/av81482620)
@@ -10,4 +10,4 @@
  [新西兰南岛之罗伊冰川](https://www.bilibili.com/video/av78681614)
 
 ### 文章
-[九个通俗易懂的经济学原理](https://mp.weixin.qq.com/s/gJ1NCUvxxtd3Z0brsKcwBA)
+[飞鸟集](飞鸟集.md)
