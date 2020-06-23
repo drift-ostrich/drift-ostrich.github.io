@@ -17,4 +17,4 @@
 * [飞鸟集](飞鸟集.md)
 
 ### 视频号
-![avatar](https://github.com/drift-ostrich/drift-ostrich.github.io/blob/master/in.jpg)
+![avatar](in.png)
