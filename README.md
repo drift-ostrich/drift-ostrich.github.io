@@ -17,4 +17,4 @@
 * [飞鸟集](飞鸟集.md)
 
 ### 视频号
-! [text ] ( /in.jpg)
+! [text ] (https://github.com/drift-ostrich/drift-ostrich.github.io/blob/master/in.jpg)
