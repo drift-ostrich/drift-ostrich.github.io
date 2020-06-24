@@ -1,4 +1,4 @@
-
+### 如何加入 BOX 定投践行群
 
 加入 BOX 定投践行群之前，请仔细阅读 [定投改变命运（第三版）](https://ri.firesbox.com/#/)
 
@@ -10,6 +10,5 @@ YJU222SP
 P31UZI9U  
 MHHUG04T  
 * 有任何关于 BOX 定投践行群的问题，请联系我：  
-
-  Mixin ID: 36819739  或  微信：eagle_pop
+Mixin ID: 36819739  或  微信：eagle_pop
 
