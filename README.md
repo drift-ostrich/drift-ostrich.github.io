@@ -17,8 +17,8 @@
 * [飞鸟集](飞鸟集.md)
 
 ### EIFI
-* [Everything DMD](https://github.com/drift-ostrich/drift-ostrich.github.io/blob/master/Everything%20DMD.md)
-* [About EFi](https://github.com/drift-ostrich/drift-ostrich.github.io/blob/master/About%20EFi.md)
+* [Everything DMD](Everything%20DMD.md)
+* [About EFi](About%20EFi.md)
 
 ### [如何加入BOX 定投践行群](box-group.md)
 > “BOX 定投践行群”，是李笑来的区块链教育产品。 历史上鲜有机会可以像BOX 定投践行群这样，通过知识传递带着学员赚到钱…… 幸运的是，区块链行业的突起和迅猛发展，给了我们这样独一无二的，甚至可以说是前无古人后无来者的机会。
