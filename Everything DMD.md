@@ -1,4 +1,5 @@
 ## Everything DMD
+“Everything DMD” by EFi https://link.medium.com/Vv88qTBOG9
 
 The Diamond Platform ( DP ) will aggregate various DeFi projects on EOS. When users stake, DP will automatically allocated the funds to the targeted DeFi project with the highest revenue.
 
