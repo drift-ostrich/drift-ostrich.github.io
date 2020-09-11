@@ -20,8 +20,6 @@ EOS作为一个性能优异的公共链，比任何公共链都更适合承担�
 
 ##### How to ensure the safety of funds?
 
-##### 如何确保资金安全？
-
 EOS’s DeFi ecosystem has just begun, and the infrastructure is not complete. In addition, it has been criticized because the EOS contract can be modified after deployment.
 
 EOS的DeFi生态系统刚刚开始，基础设施还不完善。此外，由于EOS合同在部署后可以修改，因此受到了批评。
@@ -36,15 +34,11 @@ EOS合约在部署后可以修改，可以通过多重签名或私钥销毁来�
 
 ##### What is EFi going to do?
 
-##### EFi会怎么做？
-
 Compared with ETH, the current DeFi applications in the EOS ecosystem are still very rudimentary. The emergence of EFi will complement the DeFi shortcomings on EOS, and give full play to the application advantages of EOS at the same time. Applications such as games on EOS will take off again with DeFi.
 
 与ETH相比，目前DeFi在EOS生态系统中的应用还很初级。EFi的出现将弥补DeFi在EOS上的不足，同时充分发挥EOS的应用优势。EOS上的游戏等应用程序将随着DeFi再次起飞。
 
 ##### Diamond (already online)
-
-##### 钻石（已经上线）
 
 Diamond is the first EFi project. It first promotes the entire EOS ecosystem through lock-in mining, which not only drives the price of EOS, but also attracts the attention of the entire blockchain field, and will further promote the issuance of the stablecoin USDT on EOS. In the future, Diamond will turn to financial management (vault) so that users can get the most benefits from locked assets.
 
