@@ -7,7 +7,7 @@
 > 邮箱：523944914@qq.com 
 
 ### 项目经历
-* [2020 上海·浦东三甲港](https://docs.qq.com/doc/DRlRjemRwQUFhSmlx)
+* [2020 上海·浦东三甲港](https://docs.qq.com/slide/DRlRkRmhMQ0lVeUNF)
 * [2019 湛江·海蓝奥园滨江华府]()
 * [2018 北京·美驰国际教育总部城]()
 * [2017 淄博·鲁商中心]()
