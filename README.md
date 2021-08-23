@@ -1,4 +1,3 @@
-<a target="_blank" rel="nofollow" href="https://drift-ostrich.github.io/" >胡宜国的主页</a>
 ![avatar](me.jpg)  
 > ### 胡宜国    
 > 设计师/建筑师  
