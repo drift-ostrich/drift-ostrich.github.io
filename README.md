@@ -8,12 +8,12 @@
 
 ### 项目 | PROJECT      
 
-* [住宅建筑 | RESIDENCE](residence.md)  
-* [联排别墅 | TOWNHOUSE](townhouse.md)  
-* [公共建筑 | PUBLIC](public.md)  
-* [概念规划 | PLAN](plan.md)  
-* [室内设计 | INTERIOR](interior.md)  
-* [其它设计 | OTHERS](others.md)
+* [住宅建筑 RESIDENCE](residence.md)  
+* [联排别墅 TOWNHOUSE](townhouse.md)  
+* [公共建筑 PUBLIC](public.md)  
+* [概念规划 PLAN](plan.md)  
+* [室内设计 INTERIOR](interior.md)  
+* [其它设计 OTHERS](others.md)
  
 ### 文集 | COLLECTION  
 
