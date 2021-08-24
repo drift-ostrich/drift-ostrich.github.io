@@ -4,7 +4,7 @@
 > 风格：新古典  
 > 阶段：方案设计  
  
-![avatar](zhanjiang.jpg)   
+![avatar](project/zhanjiang.jpg)   
 
 #### 天津中储城邦栎树湾  
 > 时间：2016年  
