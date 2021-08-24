@@ -1,4 +1,4 @@
-# 胡宜国的主页
+# 胡宜国的主页  
 ![avatar](me.jpg)      
 > 设计师/建筑师  
 > 2008 至今 源界建筑设计公司（上海）有限公司  
@@ -6,42 +6,21 @@
 > 2005 毕业于石家庄铁道学院   
 > 邮箱：523944914@qq.com 
 
-### 项目经历
-* [2020 上海·浦东三甲港](https://docs.qq.com/slide/DRlRkRmhMQ0lVeUNF)
-* [2019 湛江·海蓝奥园滨江华府](https://docs.qq.com/slide/DRk9ncllaaGtGdlFa)
-* [2018 北京·美驰国际教育总部城](https://docs.qq.com/slide/DRkxyRlByY0lOTFZT)
-* [2017 淄博·鲁商中心]()
-* [2017 南京·华夏100亩项目]()
-* [2016 青岛·金秋瑞云项目]()
-* [2015 天津·中储城邦栎树湾]()
-* [2015 济宁·鲁商运河公馆]()
-* [2014 重庆·鲁商云山雅筑]()
-* [2014 昆山·金大元御珑宫廷]()
-* [2014 济南·龙山希思庄园]()
-* [2013 杭州·半山项目]()
-* [2013 郑州·天伦庄园]()
-* [2012 南京·加洲城]()
-* [2012 泰州·深业上林苑]()
-* [2011 重庆·鲁商云山原筑]()
-* [2011 北京·鼎石国际学校]()
-* [2010 上海·金大元御珑宫廷]()
-* [2010 杭州·西溪玫瑰]()
-* [2009 天津·现代集团商务会所]()
-* [2009 苏州·九龙仓时代上城]()
-* [2008 旭辉·江湾墅]()  
+### 项目 | PROJECT      
 
-### 室内设计&其他
-* [2021 朱桥住宅]()   
-* [2021 西康路公寓]() 
-* [2019 书架改造]()   
-* [2010 临沂路公寓]()   
+* [住宅建筑 | RESIDENCE](Residence.md)  
+* [联排别墅 | TOWNHOUSE](townhouse.md)  
+* [公共建筑 | PUBLIC](public.md)  
+* [概念规划 | PLAN](plan.md)  
+* [室内设计 | INTERIOR](interior.md)  
+* [其它设计 | OTHERS](others.md)
  
-### 文档 
-* [《我与你：埃里克·索斯》](我与你：埃里克·索斯.md)
+### 文集 | COLLECTION  
+* [《我与你：埃里克·索斯》](alec soth.md)
 * [《小孩在长城上感受风的自由》](小孩在长城上感受风的自由.md)  
 * [《飞鸟集》](飞鸟集.md)
 
-### NFT 收藏
+### 收藏 | NFT     
 * [POINT #01](https://www.element.market/assets/0x4fde78d3c8718f093f6eb3699e3ed8d091498df9/55526583667119730289781299821100771263231579589529252733880976391171920101377)    
 * [RiverMen](https://www.element.market/assets/0xcfff4c8c0df0e2431977eba7df3d3de857f4b76e/2219)  
 * [典藏【万华镜】数字民族图鉴·普米族](https://huanhe.qq.com/dist/boss.html#/favdetails?cid=49288&uid=129989&shareId=129989_1629709930313)     
@@ -50,7 +29,7 @@
 * [典藏【万华镜】数字民族图鉴·鄂温克族](https://huanhe.qq.com/dist/boss.html#/favdetails?cid=48806&uid=129989&shareId=129989_1629710110273)  
 * [典藏【万华镜】数字民族图鉴·蒙古族](https://huanhe.qq.com/dist/boss.html#/favdetails?cid=32729&uid=129989&shareId=129989_1629710176498)  
 
-### 定投人生 
+### 投资 | INVESTMENT    
 * 加入定投人生课堂，请先阅读[《定投改变命运》](https://ri.firesbox.com/#/cn/)  
 * 如有疑问请联系我，Mixin ID：36819739。  
 * 定投人生课堂邀请码：9R1G0F87VY
