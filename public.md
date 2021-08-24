@@ -4,7 +4,7 @@
 > 风格：新古典  
 > 阶段：方案设计  
  
-![avatar](dingshi.jpg)   
+![avatar](project/dingshi.jpg)   
 
 #### 天津现代集团商务会所  
 > 时间：2009年  
@@ -12,4 +12,4 @@
 > 风格：英式  
 > 阶段：方案设计   
 
-![avatar](xiandai.jpg)  
+![avatar](project/xiandai.jpg)  
