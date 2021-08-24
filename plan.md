@@ -4,4 +4,4 @@
 > 风格：现代  
 > 阶段：概念方案  
  
-![avatar](sanjiagang.jpg)   
+![avatar](project/sanjiagang.jpg)   
