@@ -1,5 +1,6 @@
 # 胡宜国的主页  
-![avatar](me.jpg)      
+![avatar](me.jpg)   
+
 > 设计师/建筑师  
 > 2008 至今 源界建筑设计公司（上海）有限公司  
 > 2007 上海天华建筑设计有限公司   
@@ -11,13 +12,14 @@
 * [住宅建筑 RESIDENCE](residence.md)  
 * [联排别墅 TOWNHOUSE](townhouse.md)  
 * [公共建筑 PUBLIC](public.md)  
+* [立面改造 FACADE](facade.md)  
 * [概念规划 PLAN](plan.md)  
 * [室内设计 INTERIOR](interior.md)  
 * [其它设计 OTHERS](others.md)
  
 ### 文集 | COLLECTION  
 
-* [《小孩在长城上感受风的自由](小孩在长城上感受风的自由.md)  
+* [《小孩在长城上感受风的自由》](小孩在长城上感受风的自由.md)  
 * [《飞鸟集》](飞鸟集.md)  
 * [《我与你：埃里克·索斯》](soth.md)  
 
