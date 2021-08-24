@@ -1,4 +1,6 @@
 ### 定投人生课堂    
 * 加入定投人生课堂，请先阅读[《定投改变命运》](https://ri.firesbox.com/#/cn/)  
 * 如有疑问请联系我，Mixin ID：36819739。  
-* 定投人生课堂邀请码：9R1G0F87VY
+* 定投人生课堂邀请码：9R1G0F87VY  
+
+![avatar](jiandie.jpg)   
