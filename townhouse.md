@@ -28,4 +28,4 @@
 > 风格：英式  
 > 阶段：方案设计   
 
-![avatar](project/zhongshan.jpg)
+![avatar](project/zhongshang.jpg)
