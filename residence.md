@@ -12,7 +12,7 @@
 > 风格：法式+英式  
 > 阶段：方案设计   
 
-![avatar](zhongchu.jpg)  
+![avatar](project/zhongchu.jpg)  
 
 #### 郑州天伦庄园  
 > 时间：2014年  
@@ -20,7 +20,7 @@
 > 风格：英式  
 > 阶段：方案设计   
 
-![avatar](tianlun.jpg)  
+![avatar](project/tianlun.jpg)  
 
 #### 九龙仓时代上城  
 > 时间：2009年  
@@ -28,4 +28,4 @@
 > 风格：现代  
 > 阶段：方案设计   
 
-![avatar](jiulongcang.jpg)
+![avatar](project/jiulongcang.jpg)
