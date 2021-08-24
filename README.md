@@ -8,7 +8,7 @@
 
 ### 项目 | PROJECT      
 
-* [住宅建筑 | RESIDENCE](Residence.md)  
+* [住宅建筑 | RESIDENCE](residence.md)  
 * [联排别墅 | TOWNHOUSE](townhouse.md)  
 * [公共建筑 | PUBLIC](public.md)  
 * [概念规划 | PLAN](plan.md)  
