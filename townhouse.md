@@ -4,7 +4,7 @@
 > 风格：法式  
 > 阶段：方案设计  
  
-![avatar](kunshan.jpg)   
+![avatar](project/kunshan.jpg)   
 
 #### 重庆鲁商云山雅筑  
 > 时间：2014年  
@@ -12,7 +12,7 @@
 > 风格：新古典  
 > 阶段：方案设计   
 
-![avatar](chongqin.jpg)  
+![avatar](project/chongqin.jpg)  
 
 #### 济南龙山希思庄园  
 > 时间：2014年  
@@ -20,7 +20,7 @@
 > 风格：英式  
 > 阶段：方案设计   
 
-![avatar](panlongshan.jpg)  
+![avatar](project/panlongshan.jpg)  
 
 #### 杭州西溪玫瑰  
 > 时间：2010年  
@@ -28,4 +28,4 @@
 > 风格：英式  
 > 阶段：方案设计   
 
-![avatar](zhongshan.jpg)
+![avatar](project/zhongshan.jpg)
