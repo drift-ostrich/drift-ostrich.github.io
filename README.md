@@ -3,7 +3,7 @@
 ![avatar](me.jpg)   
 
 > 胡宜国 Yiguo Hu  
-> 设计师 建筑师  
+> 设计师/国家一级注册建筑师  
 > 2008 至今 源界建筑 BORDERLAND  
 > 2007 上海天华建筑设计有限公司   
 > 2005 毕业于石家庄铁道学院   
@@ -18,22 +18,13 @@
 * [概念规划 PLAN](plan.md)  
 * 室内设计 INTERIOR
 
-### 文集 | COLLECTION  
+### NFT合集 | COLLECTION  
 
-* [《小孩在长城上感受风的自由》](小孩在长城上感受风的自由.md)  
-* [《飞鸟集》](飞鸟集.md)  
-* [《我与你：埃里克·索斯》](soth.md)  
-* [《比特币：一种点对点电子货币系统》](bitcoin.md)  
-
-### 摄影集 | PHOTOGRAPHY  
-
-* Mask2020
-* RockHomeTown2004
+* [RiverDances](https://www.element.market/collections/riverdances)  
+* [RockHomeTown2004](https://opensea.io/collection/rockhometown-2004)  
 
 ### 投资 | INVESTMENT   
 
 * [OpenSea](https://opensea.io/DriftOstrich) 
 * [NFT](nft.md)  
 * [定投人生课堂](dingtou.md)  
-
-
