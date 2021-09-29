@@ -20,11 +20,5 @@
 
 ### NFT合集 | COLLECTION  
 
-* [RiverDances](https://www.element.market/collections/riverdances)  
-* [RockHomeTown2004](https://opensea.io/collection/rockhometown-2004)  
-
-### 投资 | INVESTMENT   
-
 * [OpenSea](https://opensea.io/DriftOstrich) 
-* [NFT](nft.md)  
 * [定投人生课堂](dingtou.md)  
